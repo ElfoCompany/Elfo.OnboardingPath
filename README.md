@@ -1,6 +1,6 @@
 # Onboarding Path
 
-Some usefull links and topics that you should know :-)
+Some usefull links and topics that you should know :-)  
 Feel free to contribute, add materials, fix the existing ones and propose new stuff.
 
 ### 1) Side paths
