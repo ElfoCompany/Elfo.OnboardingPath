@@ -1,4 +1,4 @@
 # Languages
-* [C#](c#)
+* [C#](csharp)
 * [Javascript](javascript)
 * [SQL](sql)
