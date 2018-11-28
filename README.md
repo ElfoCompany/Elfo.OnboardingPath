@@ -26,6 +26,8 @@ Feel free to contribute, add materials, fix the existing ones and propose new st
 
 ### 3) DDD
 * [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
+* [Aggragate](https://martinfowler.com/bliki/DDD_Aggregate.html)
+* [Entities & Value Objects](https://martinfowler.com/bliki/EvansClassification.html)
 
 ### 4) ASP.NET Web Forms
 * [ASP.NET Web Form](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/introduction-and-overview) ```#onboarding```
