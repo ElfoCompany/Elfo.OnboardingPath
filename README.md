@@ -35,3 +35,9 @@ Feel free to contribute, add materials, fix the existing ones and propose new st
 
 ### 5) Web API
 * [REST](https://mlsdev.com/blog/81-a-beginner-s-tutorial-for-understanding-restful-api) ```#onboarding```
+
+### 6) HTML, Javascript, CSS
+* [HTML Foundamentals](https://app.pluralsight.com/library/courses/html-fundamentals/table-of-contents)
+* [Javascript Core](https://app.pluralsight.com/paths/skill/javascript-core-language)
+* [CSS Intro](https://app.pluralsight.com/library/courses/css-intro/table-of-contents)
+* [CSS Reponsive Page](https://app.pluralsight.com/library/courses/css-flexbox-creating-responsive-pages/table-of-contents)
